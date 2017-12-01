@@ -69,9 +69,6 @@
     "react-test-renderer": "^15.5.0"
   },
   "typings": "./lib/index.d.ts",
-  "pre-commit": [
-    "lint"
-  ],
   "dependencies": {
     "babel-runtime": "6.x",
     "rmc-picker": "~5.0.0"

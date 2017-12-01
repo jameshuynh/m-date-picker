@@ -22,116 +22,6 @@ exports[`DatePicker renders correctly 1`] = `
       <div
         class="rmc-picker-item "
       >
-        2015
-      </div>
-      <div
-        class="rmc-picker-item rmc-picker-item-selected "
-      >
-        2016
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        2017
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        2018
-      </div>
-    </div>
-  </div>
-  <div
-    class="rmc-picker"
-    style="flex:1;"
-  >
-    <div
-      class="rmc-picker-mask"
-    />
-    <div
-      class="rmc-picker-indicator "
-    />
-    <div
-      class="rmc-picker-content"
-    >
-      <div
-        class="rmc-picker-item "
-      >
-        1
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        2
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        3
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        4
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        5
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        6
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        7
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        8
-      </div>
-      <div
-        class="rmc-picker-item rmc-picker-item-selected "
-      >
-        9
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        10
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        11
-      </div>
-      <div
-        class="rmc-picker-item "
-      >
-        12
-      </div>
-    </div>
-  </div>
-  <div
-    class="rmc-picker"
-    style="flex:1;"
-  >
-    <div
-      class="rmc-picker-mask"
-    />
-    <div
-      class="rmc-picker-indicator "
-    />
-    <div
-      class="rmc-picker-content"
-    >
-      <div
-        class="rmc-picker-item "
-      >
         1
       </div>
       <div
@@ -278,6 +168,116 @@ exports[`DatePicker renders correctly 1`] = `
         class="rmc-picker-item "
       >
         30
+      </div>
+    </div>
+  </div>
+  <div
+    class="rmc-picker"
+    style="flex:1;"
+  >
+    <div
+      class="rmc-picker-mask"
+    />
+    <div
+      class="rmc-picker-indicator "
+    />
+    <div
+      class="rmc-picker-content"
+    >
+      <div
+        class="rmc-picker-item "
+      >
+        1
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        2
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        3
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        4
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        5
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        6
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        7
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        8
+      </div>
+      <div
+        class="rmc-picker-item rmc-picker-item-selected "
+      >
+        9
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        10
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        11
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        12
+      </div>
+    </div>
+  </div>
+  <div
+    class="rmc-picker"
+    style="flex:1;"
+  >
+    <div
+      class="rmc-picker-mask"
+    />
+    <div
+      class="rmc-picker-indicator "
+    />
+    <div
+      class="rmc-picker-content"
+    >
+      <div
+        class="rmc-picker-item "
+      >
+        2015
+      </div>
+      <div
+        class="rmc-picker-item rmc-picker-item-selected "
+      >
+        2016
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        2017
+      </div>
+      <div
+        class="rmc-picker-item "
+      >
+        2018
       </div>
     </div>
   </div>
@@ -697,4 +697,4 @@ exports[`DatePicker renders correctly 1`] = `
     </div>
   </div>
 </div>
-`;
+`
